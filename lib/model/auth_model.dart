@@ -1,0 +1,4 @@
+class AuthModel{
+
+  // final String
+}
